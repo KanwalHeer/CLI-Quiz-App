@@ -1,0 +1,53 @@
+[
+    { 
+      "text": "What does TypeScript compile to?", 
+      "options": ["JavaScript", "Python", "C++"], 
+      "correctAnswer": 0 
+    },
+    { 
+      "text": "Which keyword is used to define a variable in TypeScript?", 
+      "options": ["var", "let", "const"], 
+      "correctAnswer": 1 
+    },
+    { 
+      "text": "What is the output of 3 + '3' in TypeScript?", 
+      "options": ["6", "33", "Error"], 
+      "correctAnswer": 1 
+    },
+    { 
+      "text": "What is the purpose of TypeScript?", 
+      "options": ["Server-side scripting", "Client-side scripting", "Static typing"], 
+      "correctAnswer": 2 
+    },
+    { 
+      "text": "Which tool is used to transpile TypeScript to JavaScript?", 
+      "options": ["Babel", "Webpack", "tsc"], 
+      "correctAnswer": 2 
+    },
+    { 
+      "text": "What is the TypeScript file extension?", 
+      "options": [".ts", ".js", ".tsx"], 
+      "correctAnswer": 0 
+    },
+    { 
+      "text": "What does 'TS' stand for in TypeScript?", 
+      "options": ["TypeSafe", "TrueScript", "TypeScript"], 
+      "correctAnswer": 2 
+    },
+    { 
+      "text": "Which of the following is a TypeScript feature?", 
+      "options": ["Strongly-typed", "Dynamically-typed", "Weakly-typed"], 
+      "correctAnswer": 0 
+    },
+    { 
+      "text": "What is the latest version of TypeScript as of 2022?", 
+      "options": ["3.8", "4.4", "5.2"], 
+      "correctAnswer": 1 
+    },
+    { 
+      "text": "What does the 'readonly' keyword do in TypeScript?", 
+      "options": ["Makes a property immutable", "Allows a property to be written", "Makes a property private"], 
+      "correctAnswer": 0 
+    }
+  ]
+  
